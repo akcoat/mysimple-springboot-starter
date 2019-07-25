@@ -1,0 +1,1 @@
+# mysimple-springboot-starter
